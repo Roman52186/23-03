@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileManage1.cpp" />
     <ClCompile Include="inputcont.cpp" />
     <ClCompile Include="outputcont.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -146,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cout.h" />
+    <ClInclude Include="FileManage.h" />
     <ClInclude Include="input.h" />
     <ClInclude Include="uicont.h" />
   </ItemGroup>
